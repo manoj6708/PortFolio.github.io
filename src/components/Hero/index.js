@@ -23,7 +23,7 @@ const Hero = (props) => {
               <Button label="Hire Me" />
             </div>
             <div id="downcv">
-              <a href="https://www.google.com">
+              <a href="https://www.google.com" target="_blank">
             Download CV
             </a>
   
